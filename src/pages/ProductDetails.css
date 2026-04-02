@@ -1,0 +1,48 @@
+.details {
+  padding: 40px;
+}
+
+.details-container {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
+
+.details img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+.price {
+  color: #7c3aed;
+  font-size: 20px;
+}
+
+.colors span {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin: 5px;
+  border-radius: 50%;
+}
+
+.rating {
+  margin-top: 10px;
+}
+
+.btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #7c3aed;
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
+.similar-section {
+  margin-top: 50px;
+}
+
+.similar-section h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
